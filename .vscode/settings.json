@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.razor": "aspnetcorerazor",
+        "*.js": "javascript",
+        "thread": "cpp",
+        "__locale": "cpp",
+        "new": "cpp",
+        "bitset": "cpp",
+        "string": "cpp",
+        "stdexcept": "cpp",
+        "iosfwd": "cpp",
+        "locale": "cpp"
+    }
+}
